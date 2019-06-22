@@ -1,10 +1,10 @@
 
 # networks basic analysis tools 
 this is repository for basic analysis tools of networks. 
-here we consider networks embedded in space (spatial and particularly geometric networks), 
+
+here we consider networks embedded in space (spatial and in particular geometric networks), 
 then we consider networks non-embedded in space, which can be weighted (by weights assigned to links or nodes) 
 or non-weighted (when adjacency matrix has only 0,1 entries)
-
 
 # network measures for analysis of the degree distribution 
 degree distribution is one of the most basic linear characteristics of any network and we can always start with it
