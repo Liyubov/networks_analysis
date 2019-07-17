@@ -2,6 +2,7 @@
 # networks basic analysis tools 
 this is repository for basic analysis tools of networks. 
 
+in folder *network_code* we do basic network analysis.
 here we consider networks embedded in space (spatial and in particular geometric networks),  see notebook *geometric graphs analysis.ipynb*,
 then we consider networks non-embedded in space, which can be weighted (by weights assigned to links or nodes) 
 or non-weighted (when adjacency matrix has only 0,1 entries), see e.g. notebook *standard_network_analysis_vizzz.ipynb* with standard network analysis
