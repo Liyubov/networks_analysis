@@ -7,6 +7,8 @@ here we consider networks embedded in space (spatial and in particular geometric
 then we consider networks non-embedded in space, which can be weighted (by weights assigned to links or nodes) 
 or non-weighted (when adjacency matrix has only 0,1 entries), see e.g. notebook *standard_network_analysis_vizzz.ipynb* with standard network analysis
 
+some of networks visualisations are collected at Imaginary.org open mathematics community, my gallery there https://imaginary.org/gallery/networks-and-the-world
+
 # network measures for analysis of the degree distribution 
 degree distribution is one of the most basic linear characteristics of any network and we can always start with it
 
