@@ -1,6 +1,7 @@
 
 # networks basic analysis tools 
-this is repository for basic analysis tools of networks. 
+this is repository for basic analysis tools of networks.
+for galleries of some network visualisations please visit https://imaginary.org/gallery/networks-and-the-world 
 
 in folder *network_code* we do basic network analysis.
 here we consider networks embedded in space (spatial and in particular geometric networks),  see notebook *geometric graphs analysis.ipynb*,
