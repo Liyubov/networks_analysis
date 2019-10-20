@@ -41,12 +41,14 @@ with open('graph.json', 'w') as f:
               f, indent=4,)
 
 
-# Next we create html
+# Next we can create html and visualise network in D3.js
 # <div id="d3-example"></div>
 # <style>
 # .node {stroke: #fff; stroke-width: 1.5px;}
 # .link {stroke: #999; stroke-opacity: .6;}
 # </style>
+# 
+# But here we want to use better the Gephi visualisation. 
 
 # In[ ]:
 
